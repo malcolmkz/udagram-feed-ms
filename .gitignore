@@ -44,3 +44,7 @@ venv/
 set_env.sh
 
 
+database-secret.yaml
+deployment.yaml
+service.yaml
+jwt-secret.yaml
